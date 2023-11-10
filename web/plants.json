@@ -1,0 +1,10 @@
+{"name": "Bonsai","watering": "4","light": "4","humidity": "2","min_temperature": "60","max_temperature": "75","night_temperature": "65"}
+{"name": "Succulent","watering": "1","light": "4","humidity": "2","min_temperature": "60","max_temperature": "75","night_temperature": "65"}
+{"name": "Flower","watering": "2","light": "1","humidity": "2","min_temperature": "60","max_temperature": "75","night_temperature": "65"}
+{"name": "Pothos","watering": "3","light": "1","humidity": "3","min_temperature": "60","max_temperature": "75","night_temperature": "65"}
+{"name": "Basil","watering": "3","light": "3","humidity": "3","min_temperature": "60","max_temperature": "75","night_temperature": "65"}
+{"name": "Radish","watering": "3","light": "3","humidity": "3","min_temperature": "60","max_temperature": "75","night_temperature": "65"}
+{"name": "Peppers","watering": "2","light": "3","humidity": "3","min_temperature": "60","max_temperature": "75","night_temperature": "65"}
+{"name": "Other","watering": "2","light": "2","humidity": "2","min_temperature": "60","max_temperature": "75","night_temperature": "65"}
+{"name": "orchid", "watering": "3", "light": "4", "humidity": "3", "min_temperature": "55", "max_temperature": "70", "night_temperature": "65"}
+{"name": "monstera", "watering": "4", "light": "3", "humidity": "3", "min_temperature": "55", "max_temperature": "70", "night_temperature": "65"}
